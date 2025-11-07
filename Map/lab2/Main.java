@@ -1,6 +1,7 @@
 package lab2;
 import ru.ifmo.se.pokemon.*;
 import pokemon.*;
+import move.*;
 
 public class Main {
     public static void main(String[] args) {
